@@ -1,4 +1,5 @@
-## Riset Autocorecction Word or Suggestion Word Smiliararity
+## Riset Autocorecction Word or Suggestion Word Similarities
+using pandas 
 
 ## Run
 
