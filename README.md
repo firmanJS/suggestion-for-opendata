@@ -10,7 +10,7 @@ python3 -m venv venv
 source venv/bin/activate
 
 # install package
-pip3 install -r requirement.txt
+pip3 install -r requirements.txt
 
 #run scsript
 python3 suggestion.py
